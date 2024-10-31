@@ -1,7 +1,7 @@
 # 1．サクラエディタの設定ファイル（インポート用）
 サクラエディタのインポート用設定ファイルです。
 下記のような色合いになるような、2つのインポートファイルを用意しています。
-![](https://github.com/user-attachments/assets/441cf4b4-825c-4f73-97e8-af8ecf8c71e4)
+![](https://github.com/user-attachments/assets/c5c364ac-c98d-41f0-a92a-661392480e06)
 
 * user.rkw ： 正規表現キーワード 設定ファイル
 * user.col ： カラー 設定ファイル
