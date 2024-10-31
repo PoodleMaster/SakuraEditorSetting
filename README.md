@@ -1,5 +1,5 @@
 # 1．サクラエディタの設定ファイル（インポート用）
-![スクリーンショット 2024-10-31 174952](https://github.com/user-attachments/assets/441cf4b4-825c-4f73-97e8-af8ecf8c71e4)
+![](https://github.com/user-attachments/assets/441cf4b4-825c-4f73-97e8-af8ecf8c71e4)
 サクラエディタのインポート用設定ファイルです。
 以下2つのインポートファイルを用意しています。
 
@@ -13,13 +13,15 @@
 1. 「`インポート`」ボタンを押下
 1. 先ほどダウンロードした「`user.rkw`」ファイルを選択
 1. 「`OK`」ボタンを押下
-![スクリーンショット 2024-10-31 144034](https://github.com/user-attachments/assets/4b62a171-dd84-4b85-9111-e183b2b04635)
 
-## （2）正規表現キーワードのインポート
+![](https://github.com/user-attachments/assets/4b62a171-dd84-4b85-9111-e183b2b04635)
+
+## （2）カラーのインポート
 1. 「`サクラエディタ`」アプリを起動
 1. 「`設定`➔`タイプ別設定`」を選択して、タイプ別設定画面を表示
 1. 「`カラー`」タブを押下
 1. 「`インポート`」ボタンを押下
 1. 先ほどダウンロードした「`user.col`」ファイルを選択
 1. 「`OK`」ボタンを押下
-![スクリーンショット 2024-10-31 150956](https://github.com/user-attachments/assets/4148babf-4ba7-4c00-bba9-57624eeec98c)
+
+![](https://github.com/user-attachments/assets/4148babf-4ba7-4c00-bba9-57624eeec98c)
