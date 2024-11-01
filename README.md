@@ -17,7 +17,7 @@
 1. 先ほどダウンロードした「`user.rkw`」ファイルを選択
 1. 「`OK`」ボタンを押下
 
-![](https://github.com/user-attachments/assets/f45b288c-1d9a-4875-ab8a-4892053b3014)
+![](https://github.com/user-attachments/assets/c908af0c-3973-4d6f-9ebe-aec0240d3cbc)
 
 ## （2）カラーのインポート方法
 1. 「`サクラエディタ`」アプリを起動
