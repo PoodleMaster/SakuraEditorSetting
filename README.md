@@ -21,7 +21,7 @@
 1. 先ほどダウンロードした「`user.rkw`」ファイルを選択
 1. 「`OK`」ボタンを押下
 
-![](https://github.com/user-attachments/assets/c908af0c-3973-4d6f-9ebe-aec0240d3cbc)
+![](https://github.com/user-attachments/assets/904c4204-f1e0-440f-8f34-0482300e48d5)
 
 ※インポート後は、をダウンロードした`user.rkw`ファイルは削除しても構いません。
 
